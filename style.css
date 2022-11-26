@@ -5,8 +5,13 @@ body {
   padding: 0;
   text-align: center;
 }
+h1 {
+  padding: 3%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  color: lightgoldenrodyellow;
+}
 #container {
-  margin-top: 10%;
   display: inline-block;
 }
 canvas {
